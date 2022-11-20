@@ -2,6 +2,8 @@
 
 This project is created by :- `Avichal Kaushik`
 
+Email ID:- avichalkaushik0007@gmail.com
+
 ## Get Started
 
 There are two ways to start this application.
