@@ -14,10 +14,14 @@ Step 1: Run `npm install` command in the terminal on current folder.
         This will install all the node packages required for this
         application to preform.
 
-Step 2: Run `npm start` to start this application.
+Step 2: Connect your database to the application. Or, import the data
+        from jsondata.json file in `assignnent/` folder. And 
+        set the uri of database on dbConnect.js file in `src/` folder.
+
+Step 3: Run `npm start` to start this application.
         You can use `npm run dev` to run development server on nodemon.
 
-Step 3: Run you application on your register local server.
+Step 4: Run you application on your register local server.
         By default, local server is running on http://localhost:8000
 
 
@@ -27,12 +31,16 @@ Step 1: Run `npm install` command in the terminal on current folder.
         This will install all the node packages required for this
         application to preform.
 
-Step 2: Run `npm start` to start this application.
+Step 2: Connect your database to the application. Or, import the data
+        from jsondata.json file in `assignnent/` folder. And 
+        set the uri of database on dbConnect.js file in `src/` folder.
+
+Step 3: Run `npm start` to start this application.
         You can use `npm run dev` to run development server on nodemon.
 
-Step 3: Run you application on your register local server.
+Step 4: Run you application on your register local server.
         By default, local server is running on http://localhost:8000
 
-Step 4: Perform Step 1 and Step 2 on ./public directory.
+Step 5: Perform Step 1 and Step 2 on ./public directory.
 
-Step 5: Now use your app on different PORT of localhost.
+Step 6: Now use your app on different PORT of localhost.
