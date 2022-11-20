@@ -41,6 +41,6 @@ Step 3: Run `npm start` to start this application.
 Step 4: Run you application on your register local server.
         By default, local server is running on http://localhost:8000
 
-Step 5: Perform Step 1 and Step 2 on ./public directory.
+Step 5: Perform Step 1 and Step 3 on ./public directory.
 
 Step 6: Now use your app on different PORT of localhost.
