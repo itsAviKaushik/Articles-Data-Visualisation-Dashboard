@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.58486fb8.css",
+    "main.js": "/static/js/main.e8600ff2.js",
+    "static/js/787.468f20b0.chunk.js": "/static/js/787.468f20b0.chunk.js",
+    "static/media/Ubuntu-Light.eot": "/static/media/Ubuntu-Light.c3db9387621e97e27533.eot",
+    "static/media/Ubuntu-Light.ttf": "/static/media/Ubuntu-Light.f325c84bccf241d9ee56.ttf",
+    "static/media/Ubuntu-Regular.eot": "/static/media/Ubuntu-Regular.338467aab2d4f1b763ed.eot",
+    "static/media/Ubuntu-Regular.ttf": "/static/media/Ubuntu-Regular.c5dacf61346d00b02668.ttf",
+    "static/media/Ubuntu-Medium.eot": "/static/media/Ubuntu-Medium.5369c0ace462fb0bc38b.eot",
+    "static/media/Ubuntu-Medium.ttf": "/static/media/Ubuntu-Medium.be8ed38e667de67e1f84.ttf",
+    "static/media/Ubuntu-Bold.eot": "/static/media/Ubuntu-Bold.5cc50b86fbd38138ebbb.eot",
+    "static/media/Ubuntu-Bold.ttf": "/static/media/Ubuntu-Bold.5035d5540e2939d9d539.ttf",
+    "static/media/Ubuntu-Light.woff": "/static/media/Ubuntu-Light.086e75a1a140620262f4.woff",
+    "static/media/Ubuntu-Regular.woff": "/static/media/Ubuntu-Regular.abfd94df199d45f34ea8.woff",
+    "static/media/Ubuntu-Medium.woff": "/static/media/Ubuntu-Medium.5c7c90649380d5a3b2c7.woff",
+    "static/media/Ubuntu-Light.woff2": "/static/media/Ubuntu-Light.8f8d1eed8d3fcf32a61b.woff2",
+    "static/media/Ubuntu-Bold.woff": "/static/media/Ubuntu-Bold.fb516a328aa972109935.woff",
+    "static/media/Ubuntu-Regular.woff2": "/static/media/Ubuntu-Regular.7ebfdd1b72dbb9b57c29.woff2",
+    "static/media/avichal.jpg": "/static/media/avichal.c64db5c37415ca0f5643.jpg",
+    "static/media/Ubuntu-Medium.woff2": "/static/media/Ubuntu-Medium.0f9c39f92406909cb122.woff2",
+    "static/media/Ubuntu-Bold.woff2": "/static/media/Ubuntu-Bold.34619c210d3a17a27383.woff2",
+    "index.html": "/index.html",
+    "main.58486fb8.css.map": "/static/css/main.58486fb8.css.map",
+    "main.e8600ff2.js.map": "/static/js/main.e8600ff2.js.map",
+    "787.468f20b0.chunk.js.map": "/static/js/787.468f20b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58486fb8.css",
+    "static/js/main.e8600ff2.js"
+  ]
+}
